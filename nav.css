@@ -307,7 +307,7 @@ button:hover{
     padding: 10px;
 }
 .card{
-    width: 230px;
+    width: 210px;
     border-radius: 8px;
     overflow: hidden;
     box-shadow: 0px 5px 7px rgba(0,0,0,0.3);
@@ -632,7 +632,7 @@ button:hover{
 .container-contact {
     width: 80%;
     max-width: 600px;
-    margin: 50px auto;
+    margin: auto;
     padding: 20px;
 }
 .container-contact  .heading{
@@ -670,7 +670,10 @@ button:hover{
     background-color: green;
     color: white;
     cursor: pointer;
-    font-size: bold;
+    font-weight: bold;
+    font-size: 20px;
+    text-transform: uppercase;
+    
 }
 
 /* fin contact */
